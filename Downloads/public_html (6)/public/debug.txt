@@ -1,0 +1,6 @@
+Array
+(
+    [device] => 6281231029398
+    [stateid] => 3EB09A56139CB9DE9FE818
+    [state] => read
+)
